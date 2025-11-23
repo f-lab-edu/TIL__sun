@@ -92,4 +92,3 @@ public class OrderController {
                     .withDetail("You can't cancel an order that is in the "+order.getStatus()+" status"));
     }
 }
-
