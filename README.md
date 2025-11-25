@@ -1,3 +1,3 @@
 # TIL__sun
-f-lab_TIL 기록_sun
-- 25.11.23 : Building REST services with Spring 튜토리얼 학습 (https://spring.io/guides/tutorials/rest)
+* main branch : TIL 기록 공간
+* master branch : 실습 및 프로젝트 기록 공간
