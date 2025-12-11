@@ -1,0 +1,11 @@
+1. [프로젝트] 
+- 노션 정리 :https://www.notion.so/9-2c651330ade2805da34cd117ea635c8e#2c651330ade280438d02ff0c89d0bc16
+- 코드 : https://github.com/PARKSUNJUNG/flabproject
+
+[사용자] 로그인 기능 구현
+- User 엔티티 수정 (기본 생성자 추가)
+- Repository 수정
+- UserDetails 구현
+- Security 설정 
+- Controller 작성
+- view 생성 (login.html)
