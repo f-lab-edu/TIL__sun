@@ -1,0 +1,12 @@
+1. [프로젝트] [관리자] 카테고리 관리 페이지 구현
+노션정리 : https://www.notion.so/10-3-2c751330ade280149358fc10d3511bb3
+소스 : https://github.com/PARKSUNJUNG/flabproject
+
+[관리자] 카테고리 관리 페이지 구현
+- DTO 설계 (Request)
+- 엔티티 설계 
+- Repository 구현
+- Service 구현
+- Controller 구현
+- DTO 설계 (Response)
+- View (register, list)
