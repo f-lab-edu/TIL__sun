@@ -1,3 +1,12 @@
 1. [프로젝트]
-- [관리자] 굿즈 판매 기간 수정 가능하도록 작업
-- [사용자] 굿즈 목록 구현
+노션 : https://www.notion.so/13-2d351330ade28053868ae430bfe7f09b
+코드 : https://github.com/PARKSUNJUNG/flabproject
+
+[관리자] 굿즈 판매 기간 수정 가능하도록 작업
+
+[사용자] 굿즈 관리 목록 구현
+- DTO (Response) 
+- Repository 수정 (사용자쪽 추가)
+- Service 구현
+- Controller 구현
+- View (list)
