@@ -1,4 +1,5 @@
 1. [프로젝트]
+
 노션 : https://www.notion.so/13-2d351330ade28053868ae430bfe7f09b
 코드 : https://github.com/PARKSUNJUNG/flabproject
 
@@ -10,3 +11,11 @@
 - Service 구현
 - Controller 구현
 - View (list)
+------------------------------------------------------------------------------------
+노션 : https://www.notion.so/14-2d551330ade280bfae46fc9fc4425619
+코드 : https://github.com/PARKSUNJUNG/flabproject
+
+[사용자] 공통 네비게이션 메뉴 구현
+
+- header.html
+- global.css
