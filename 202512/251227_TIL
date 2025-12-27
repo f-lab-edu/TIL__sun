@@ -1,0 +1,10 @@
+1. [프로젝트]
+
+  -15. [관리자] 공통 사이드바 메뉴 구현
+  -노션 : https://www.notion.so/15-2d651330ade280b0997fcf9c2f047d16
+  -코드 : https://github.com/PARKSUNJUNG/flabproject
+  
+    [관리자] 공통 사이드바 메뉴 구현
+    
+    - sidebar.html
+    - global_admin.css
