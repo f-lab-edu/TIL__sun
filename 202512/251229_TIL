@@ -1,0 +1,21 @@
+1. [프로젝트]
+  
+  16. [사용자] 굿즈 상세화면 구현
+  노션 : https://www.notion.so/16-2d651330ade280618275cc05d230a601
+  코드 : https://github.com/PARKSUNJUNG/flabproject
+  [사용자] 굿즈 상품 상세페이지 구현
+  
+  -DTO 설계 (Response)
+  UserProductDetailResponse
+  UserProductOptionResponse
+  UserProductContentResponse
+  
+  -Service 설계
+  UserProductDetailService
+  
+  - Controller 설계
+  UserProductDetailController
+  
+  - View 설계
+  detail.html
+-----------------------------------------------------------------------------------------------
