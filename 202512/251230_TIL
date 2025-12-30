@@ -1,9 +1,9 @@
 1. [프로젝트]
 
-  17. HTTP API 설계 #5. [사용자] 굿즈 주문
+  * 17. HTTP API 설계 #5. [사용자] 굿즈 주문
   노션 : https://www.notion.so/17-HTTP-API-5-2d851330ade280d29db3ca632951dc2e
   
-  18. [사용자] 굿즈 주문하기 구현
+  * 18. [사용자] 굿즈 주문하기 구현
   노션 : https://www.notion.so/18-2d851330ade280c1b6b6dea047c59198
   코드 : https://github.com/PARKSUNJUNG/flabproject
   
@@ -25,3 +25,7 @@
   ✔ view 설계
   - order.html
   - detail.html 수정
+
+* 굿즈 주문하기 리팩토링 
+  - 옵션이 있을 경우 수량이 제대로 안나와서 
+    옵션 있는 경우 / 옵션 없는 경우로 나눠서 리팩토링
