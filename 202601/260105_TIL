@@ -1,6 +1,6 @@
 1. [프로젝트]
 
-  20. [사용자] 굿즈 주문하기 - 최종 완성
+ * 20. [사용자] 굿즈 주문하기 - 최종 완성
   노션 : https://www.notion.so/20-2d951330ade28009978cef698f9c8ab4
   코드: https://github.com/PARKSUNJUNG/flabproject
   [사용자] 굿즈 상품 주문하기 최종 완성
@@ -11,6 +11,9 @@
   - Repository 생성
   - controller 생성
   - order.html, list.html 수정
+
+* 공통 페이징 처리 코드 구현 (진행중)
+* [관리자] 굿즈 주문 목록 구현 (진행중)
 
 
 
