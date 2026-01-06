@@ -1,0 +1,36 @@
+1. 프로젝트 진행
+
+  21. [관리자] 굿즈 주문 확인 페이지 구현
+  노션 : https://www.notion.so/21-2df51330ade28037bdecf52bdedc2022
+  코드: https://github.com/PARKSUNJUNG/flabproject
+  
+  22. [관리자] 공통 페이징 처리
+  노션 : https://www.notion.so/22-2df51330ade28030b0cae742af49525b
+  코드: https://github.com/PARKSUNJUNG/flabproject
+  --------------------------------------------------------------------------------------------------
+  [관리자] 굿즈 주문 확인 페이지 구현
+  
+  ✔ 관리자용 조회 DTO 
+  - 주문 목록 DTO : AdminOrderListDTO
+  - 주문 상세 DTO : AdminOrderDetailDTO
+  - 주문 상품 DTO  : AdminOrderItemDTO
+  - 주문 옵션 DTO : AdminOrderOptionDTO
+  
+  ✔ Repository
+  - AdminOrderListRepository
+  
+  ✔ Service
+  - AdminOrderService
+  
+  ✔ Controller
+  - AdminOrderController
+  
+  ✔ View
+  - list.html
+  - detail.html
+  
+  [관리자] 공통 페이징 처리
+  ✔ 공통 PageRequest DTO
+  ✔ 공통 PageResponse DTO
+  ✔ 타임리프 공통 페이징 Fragment
+  --------------------------------------------------------------------------------------------------
