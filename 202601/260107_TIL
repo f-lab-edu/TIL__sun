@@ -3,3 +3,8 @@
 2. [프로젝트]
 - 23. HTTP API 설계 #6. [관리자] Schedule
 - 노션 : https://www.notion.so/23-HTTP-API-6-Schedule-2e151330ade280cf867ef42bfe1c2317
+
+- 24. [관리자] Schedule 등록 기능 (진행중)
+  - 백엔드, 프론트 90% 완성
+  - 뷰 파라미터와 백엔드 파라미터가 매치가 되지 않아 등록이 안되는 현상 발생
+  - 멤버를 하드 코딩이 아닌 DB에 저장 필요
