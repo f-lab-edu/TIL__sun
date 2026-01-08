@@ -26,3 +26,15 @@
       
       ✔ View 설계
       - register.html
+------------------------------------------------------------------------------------------
+    25. [관리자] Schedule 조회 (진행중)
+        ✔ Controller 설계
+        - ScheduleAdminController → View 진입용 메소드 추가
+        - ScheduleAdminApiController → API Controller
+        
+        ✔ DTO 설계        
+        - 달력 응답 DTO : ScheduleCalendarResponse
+        - 일자 응답 DTO : ScheduleDayResponse
+------------------------------------------------------------------------------------------
+
+2. 모든 개발자를 위한 HTTP 웹 기본 지식 - 8-15강 수강 완료
