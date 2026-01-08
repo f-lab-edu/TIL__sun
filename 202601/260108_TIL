@@ -1,0 +1,28 @@
+1. [프로젝트]
+  24. [관리자] Schedule 등록
+      노션 : https://www.notion.so/24-Schedule-2e151330ade2801fa830f41ac40d7fd6
+      코드: https://github.com/PARKSUNJUNG/flabproject
+      [관리자] Schedule 등록
+      
+      ✔ Entity 설계
+      - Schedule
+      - ScheduleMember
+      
+      ✔ enum 설계
+      - ScheduleTargetType
+      
+      ✔ DTO 설계
+      - Request DTO : ScheduleRegisterRequest, ScheduleTargetDto
+      - Response DTO : ScheduleRegisterResponse
+      
+      ✔ Repository 설계
+      - ScheduleRepository
+      
+      ✔ Service 설계
+      - ScheduleService
+      
+      ✔ Controller 설계
+      - ScheduleAdminController
+      
+      ✔ View 설계
+      - register.html
