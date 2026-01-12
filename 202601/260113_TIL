@@ -1,0 +1,20 @@
+26. [관리자] Schedule 조회(상세 일정)
+노션 : https://www.notion.so/26-Schedule-2e551330ade280a3abb3dc93682e3915
+코드: https://github.com/PARKSUNJUNG/flabproject
+
+[관리자] Schedule 조회(상세 일정)
+
+✔ Service 수정
+- ScheduleService
+
+✔ Controller 수정
+- ScheduleAdminApiController
+
+✔ DTO 수정
+- ScheduleRegisterRequest (String 형의 날짜를 LocalDateTime으로 받기 위함)
+
+✔ Controller 수정
+- ScheduleAdminController (등록화면에서 날짜를 세팅하기 위함)
+
+✔ View 수정
+- list.html
