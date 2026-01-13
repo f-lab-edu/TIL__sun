@@ -1,0 +1,40 @@
+1. [프로젝트]
+    --------------------------------------------------------------------------------
+    27. [관리자] Schedule 수정
+    노션 : https://www.notion.so/27-Schedule-2e651330ade2800c936ece4c0e689d36#2e751330ade280e5a5c6d6017bdd72c1
+    코드: https://github.com/PARKSUNJUNG/flabproject
+    [관리자] Schedule 수정
+    
+    ✔ DTO 생성
+    - ScheduleUpdateRequest (요청)
+    - ScheduleUpdateViewResponse (응답)
+    - ScheduleUpdateViewResponse (조회)
+    
+    ✔ Service 수정 - ScheduleService
+    - getUpdateView 메서드 추가 (조회)
+    - update 메서드 추가 (수정 처리)
+    
+    ✔ Entity 수정 - Schedule
+    - update 메서드 추가
+    - changeTarget 메서드 추가
+    
+    ✔ Controller 수정 - ScheduleController
+    - editForm 메서드 추가
+    - update 메서드 추가
+    
+    ✔ View 생성
+    - edit.html
+    --------------------------------------------------------------------------------
+    28. [관리자] Schedule 삭제
+    노션 : https://www.notion.so/27-Schedule-2e751330ade280c1b519dc5c72150ab8
+    코드: https://github.com/PARKSUNJUNG/flabproject
+    [관리자] Schedule 삭제
+    
+    ✔ Service 수정
+    - ScheduleService **:** delete 메소드 추가
+    
+    ✔ Controller 수정
+    - ScheduleController : delete 메소드 추가
+    
+    ✔ View 수정
+    - list.html : 삭제 부분 추가
