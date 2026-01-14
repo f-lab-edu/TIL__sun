@@ -12,3 +12,20 @@
     ✔ View 생성
     - list.html
 --------------------------------------------------------------------------------------------------------------
+    30. [사용자] Schedule 조회 (상세 일정)
+    노션 : https://www.notion.so/30-Schedule-2e851330ade28024aec0e3153ca0b12c
+    코드: https://github.com/PARKSUNJUNG/flabproject
+    [사용자] Schedule 조회 (상세 일정)
+    
+    ✔ Controller 수정
+    - UserScheduleApiController
+    
+    ✔ Service 수정
+    - ScheduleService
+    
+    ✔ View 수정
+    - list.html    
+--------------------------------------------------------------------------------------------------------------  
+    
+    31.  HTTP API 설계 #7. [관리자/사용자] Update (게시판)
+    노션 : https://www.notion.so/31-HTTP-API-7-Update-2e851330ade28041a254da6868031ced#2e851330ade280799869f78b6de3b59b
