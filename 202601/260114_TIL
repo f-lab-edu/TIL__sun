@@ -1,0 +1,14 @@
+1. [프로젝트]
+--------------------------------------------------------------------------------------------------------------
+    29. [사용자] Schedule 조회 (달력)
+    노션 : https://www.notion.so/29-Schedule-2e751330ade28045a7eacfe5185becc9
+    코드: https://github.com/PARKSUNJUNG/flabproject
+    [사용자] Schedule 조회 (달력)
+    
+    ✔ Controller 생성
+    - UserScheduleController
+    - UserScheduleApiController
+    
+    ✔ View 생성
+    - list.html
+--------------------------------------------------------------------------------------------------------------
