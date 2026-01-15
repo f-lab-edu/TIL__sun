@@ -1,0 +1,31 @@
+1. [프로젝트]
+
+    32. [관리자] Update - 게시판 등록
+    노션 : https://www.notion.so/32-Update-2e851330ade280e0a058c8a4ceff571e
+    코드: https://github.com/PARKSUNJUNG/flabproject
+    [관리자] Update - 게시판 등록
+    
+    - 게시판 등록 (front, backend)
+    - Toast UI Editor 추가
+    - 파일 저장시 url, 파일명(원본), 파일명(저장)을 리턴 받을 수 있도록 메소드 추가
+    
+    ✔ Entity 
+    - UpdateNotice
+    - UpdateFile
+    
+    ✔ Repository
+    - UpdateNoticeRepository
+    - UpdateFileRepository
+    
+    ✔ DTO (Request / Response)
+    - AdminUpdateRegisterRequest
+    - AdminUpdateRegisterResponse
+    
+    ✔ Service
+    - AdminUpdateNoticeService
+    
+    ✔ Controller
+    - AdminUpdateNoticeController
+    
+    ✔ View
+    - register.html
