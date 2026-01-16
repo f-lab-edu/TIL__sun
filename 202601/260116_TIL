@@ -1,0 +1,21 @@
+1. [프로젝트]
+
+  33. [관리자] Update - Notice 목록
+  노션 : https://www.notion.so/33-Update-Notice-2ea51330ade280908e6ee1d49a185885
+  코드: https://github.com/PARKSUNJUNG/flabproject
+  [관리자] Update - Notice 목록
+  
+  ✔ DTO 생성
+  - AdminUpdateNoticeListResponse
+  
+  ✔ Repository 수정
+  - UpdateNoticeRepository : findAdminList, countAdminList 메소드 추가
+  
+  ✔ Service 수정
+  - AdminUpdateNoticeService : getNoticeList 메소드 추가
+  
+  ✔ Controller 수정
+  - AdminUpdateNoticeController.java - list 메서드 추가
+  
+  ✔ View 수정
+  - list.html
