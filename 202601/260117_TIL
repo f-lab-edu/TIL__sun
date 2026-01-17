@@ -3,6 +3,7 @@
   34. [관리자] Update - Notice 수정
   노션 : https://www.notion.so/34-Update-Notice-2ea51330ade2808f9087cff179648354#2eb51330ade2803291dad56cc3a1624c
   코드: https://github.com/PARKSUNJUNG/flabproject
+
   [관리자] Update - Notice 수정
   
   ✔ DTO 생성
@@ -18,3 +19,18 @@
   
   ✔ View 수정
   - edit.html
+-----------------------------------------------------------------------------------------------------------------------
+  35. [관리자] Update - Notice 삭제
+  노션 : https://www.notion.so/35-Update-Notice-2eb51330ade28075a7e1ce6d05645465
+  코드: https://github.com/PARKSUNJUNG/flabproject
+
+  [관리자] Update - Notice 삭제
+  
+  ✔ view
+  - list.html : 삭제 버튼 JS 함수 만들기
+  
+  ✔ Controller
+  - AdminUpdateNoticeController : delete 메서드 추가
+  
+  ✔ Service
+  - AdminUpdateNoticeService : delete 메서드 추가
