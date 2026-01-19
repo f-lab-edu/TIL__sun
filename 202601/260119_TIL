@@ -1,0 +1,21 @@
+1. [프로젝트]
+  38. 채팅 기능 구현 - ChatRoom
+  노션 : https://www.notion.so/38-ChatRoom-2ed51330ade28019a905f5267b5783d6#2ed51330ade2803dafc1ea895ee342d3
+  코드 : https://github.com/PARKSUNJUNG/flabproject
+  
+  채팅 기능 구현 - ChatRoom
+  
+  ✔ ChatRoom 엔티티
+  - ChatRoom
+  
+  ✔ ChatRoom Repository 
+  - ChatRoomRepository
+  
+  ✔ ChatRoom Service
+  - ChatRoomService
+  
+  ✔ ChatRoom Controller
+  - ChatRoomController
+  
+  ✔ ChatRoom View
+  - room.html
