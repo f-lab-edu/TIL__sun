@@ -1,0 +1,40 @@
+1. 프로젝트
+--------------------------------------------------------------------------------------------------
+  40. 채팅 기능 구현 - ChatMessage (Member)
+  노션 : https://www.notion.so/40-ChatMessage-Member-2ee51330ade28060ba49e0c81d2585b0
+  코드 : https://github.com/PARKSUNJUNG/flabproject
+  
+  채팅 기능 구현 - ChatMessage (Member)
+  
+  ChatMessage  - Member가 로그인 했을 때 기능이 동작하도록 구현
+  
+  ✔ MemberChatRoomController
+  - chatRoom 메서드 추가
+  
+  ✔ MemberChatMessageController
+  - sendMessage 메서드 추가
+  
+  ✔ 기존 ChatService
+  - sendMemberMessage 메서드 추가
+  
+  ✔ Member 채팅 화면
+  - memberRoom.html
+  
+  사용자 로그인시 User인지 Member인지 구분 가능해야 한다.
+  
+  ✔ enum - Role.java 추가
+  ✔ UserPrincipal - Role 추가
+  ✔ UserDetailsServiceImpl - user인지 member인지 분기 처리
+  
+  해야 할 일 - 관리자 화면에서 Member 회원가입 구현
+  
+  ✔ MemberAccountController 생성
+  ✔ MemberRepository 수정
+  - findByEmail, existsByEmail 추가
+  ✔ MemberService 수정
+  - emailExists, register 추가
+  ✔ RegisterMemberRequest추가
+  ✔ RegisterMemberResponse 추가
+  ✔ Member 등록 화면
+  - memberAccount.html
+--------------------------------------------------------------------------------------------------
