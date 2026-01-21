@@ -33,3 +33,11 @@
   ✔ memberList.html
   ✔ MemberChatRoomController.java
   ✔ ChatMessageService.java
+
+  채팅 기능 구현 - [Member] 채팅 목록 구현(1:1 답장)
+  
+  - 팬들 메시지가 리스트로 보이도록 구현
+  - 클릭 시 해당 채팅방 진입 가능 및 답장 가능
+  ✔ memberList.html
+  ✔ MemberChatRoomController.java
+  ✔ ChatRoomRepository.java
