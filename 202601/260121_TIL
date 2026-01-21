@@ -11,3 +11,13 @@
   ✔ ChatRoomRepository : findByUserIdOrderByCreatedAtDesc() 추가
   
   ✔ list.html : 채팅 리스트 화면 생성
+  --------------------------------------------------------------------------------
+  42. 채팅 기능 구현 - [User] 채팅 목록 구현 - 멤버 선택 → 채팅방 생성
+  노션 : https://www.notion.so/42-User-2ef51330ade280668df2c700cc0fc985
+  코드 : https://github.com/PARKSUNJUNG/flabproject
+
+  채팅 기능 구현 - [User] 채팅 목록 구현 - 멤버 선택 → 채팅방 생성
+  
+  ✔ ChatRoomController : selectMember() 추가
+  
+  ✔ selectMember.html : 채팅할 멤버 선택 화면 생성
