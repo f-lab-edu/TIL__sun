@@ -21,3 +21,15 @@
   ✔ ChatRoomController : selectMember() 추가
   
   ✔ selectMember.html : 채팅할 멤버 선택 화면 생성
+  --------------------------------------------------------------------------------
+  43. 채팅 기능 구현 - [Member] 채팅 목록 구현
+  노션 : https://www.notion.so/43-Member-2ee51330ade280338cfccee2f13dc346
+  코드 : https://github.com/PARKSUNJUNG/flabproject
+
+  채팅 기능 구현 - [Member] 채팅 목록 구현(broadcast)
+  
+  -모든 팬들에게 공통적으로 메시지가 전송이 될 수 있도록 구현
+  -팬들 입장에서는 1:1로 대화하는 것처럼 보임
+  ✔ memberList.html
+  ✔ MemberChatRoomController.java
+  ✔ ChatMessageService.java
