@@ -1,0 +1,19 @@
+1. [프로젝트]
+
+  45. [사용자] 마이페이지 - 회원정보 수정하기
+  노션 : https://www.notion.so/45-2f151330ade280b99c3ffda95c9d9035
+  코드 : https://github.com/PARKSUNJUNG/flabproject
+  
+  [사용자] 마이페이지 - 회원정보 수정하기
+  
+  ✔ DTO 생성
+  - EditUserRequest
+  
+  ✔ Controller 수정
+  - AccountController
+  
+  ✔ Service 수정
+  - AccountService
+  
+  ✔ view 생성 
+  - accountEdit.html
