@@ -1,0 +1,7 @@
+1. [프로젝트]
+
+  [관리자] update 등록 - content 저장 에러 해결코드 : https://github.com/PARKSUNJUNG/flabproject
+  
+  [관리자] update 등록 - content 저장 에러 해결
+  
+  - form 저장 시 content가 아닌 sidebar fragments 안에 있는 form 을 인식해 저장되는 현상이 있어, form 태그로 저장하는 것이 아닌 id를 인식하여 저장하도록 수정
