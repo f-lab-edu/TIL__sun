@@ -34,3 +34,35 @@
 * 노드 개수가 커도 공간 효율이 좋아 메모리 초과 에러도 발생하지 않음
 * 이런 장점으로 실제 코딩 테스트에서는 인접 리스트를 이용한 그래프 구현을 선호
 
+[ArrayList 형 배열 - 인접 리스트에서 쓰이는 자료구조]
+ArrayList<Integer>[] graph  // ArrayList 객체를 저장하는 배열
+graph[0] → ArrayList
+graph[1] → ArrayList
+graph[2] → ArrayList
+=> 배열 안에 ArrayList 저장
+
+다음 코드만 하면 아직 리스트 없음
+ArrayList<Integer>[] graph = new ArrayList[5]; 
+
+현재 상태는 
+graph[0] → null
+graph[1] → null
+graph[2] → null
+=> 배열 칸만 만들어지고, 리스트는 아직 생성 안됨
+
+그래서 반드시 이것도 해야한다.
+for(int i=0; i<5; i++) {
+  graph[i] = new ArrayList<>();
+}
+
+그러면 구조가 이렇게 바뀐다.
+graph[0] → []
+graph[1] → []
+graph[2] → []
+=> 각 칸에 리스트 생성 완료
+
+값은 다음과 같이 넣으면 된다.
+graph[1].add(2);
+graph[1].add(3);
+=> graph[1] → [2,3]
+
