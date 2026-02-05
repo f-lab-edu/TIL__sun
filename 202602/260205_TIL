@@ -1,0 +1,31 @@
+1. [알고리즘 개념]
+
+1) 유니온 파인드
+  * 유니온 파인드의 코드 구조
+  1. 부모 배열 만들기 (초기화)
+      int[] parent;
+    
+      void init(int n) {
+          parent = new int[n+1];
+    
+          for(int i=1; i<n; i++){
+              parent[i] = i;
+          }  
+      }
+
+  2. find(대표 노드 찾기)
+      int find(int x) {
+          if(parent[x] == x) return x;
+          return parent[x] = find(parent[x]); // 경로 압축
+      }
+
+  3. union (두 집합 합치기)
+  - 각각 대표 노드 찾고, 대표끼리 연결
+    void union(int a, int b) {
+        int rootA = find(a);
+        int rootB = find(b);
+
+        if(rootA != rootB) {
+            parent[rootB] = rootA;
+        }
+    }
