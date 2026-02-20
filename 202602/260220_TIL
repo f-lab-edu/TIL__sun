@@ -10,3 +10,6 @@
 
 -- 6. TypeScript 개발 환경 세팅해주기 (nodemon)
 -- https://www.notion.so/6-TypeScript-nodemon-30d51330ade2801fa1a2dbc6634e3481
+
+-- 7. Express로 간단한 웹서버 만들기
+-- https://www.notion.so/7-Express-30d51330ade28048ac26f30934ebe330
