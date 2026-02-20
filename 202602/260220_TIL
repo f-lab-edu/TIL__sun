@@ -16,3 +16,6 @@
 
 -- 8. Redis 서버 구동해서 List 데이터 관리해보기 - LPUSH, LRANGE
 -- https://www.notion.so/8-Redis-List-LPUSH-LRANGE-30d51330ade280e88984d17e1dced35f
+
+-- 9. Redis 활용한 간단한 API 만들기 
+-- https://www.notion.so/9-Redis-API-30d51330ade280479eebd4b97472ea33
