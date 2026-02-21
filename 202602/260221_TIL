@@ -1,3 +1,6 @@
 1. DevOps : AWS 배포 완벽가이드 (Feat. LightSail, Docker, ECS) - 인프런 강의
 -- 10. 테스트 코드 개발 준비하기
 -- https://www.notion.so/10-30d51330ade280a3b7d5d1c32ce27f9d
+
+-- 11. Suptertest로 API 엔드포인트 테스트하기
+-- https://www.notion.so/11-Suptertest-API-30e51330ade2804dbc0ccb625f3280d4
