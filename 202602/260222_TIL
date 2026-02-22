@@ -1,2 +1,9 @@
 1. [OS] 컴퓨터 밑바닥의 비밀 스터디
---
+--[2.1] 운영 체제, 프로세스, 스레드의 근본 이해하기
+--https://www.notion.so/2-1-30e51330ade2806aac11d0c09756a100?v=30651330ade28084a906000ccee62e47&source=copy_link
+
+--[2.2] 스레드 간 공유되는 프로세스 리소스
+--https://www.notion.so/2-2-30e51330ade280288005e8e530a6f841?v=30651330ade28084a906000ccee62e47&source=copy_link
+
+--[2.3] 스레드 안전 코드는 도대체 어떻게 작성해야 할까?
+--https://www.notion.so/2-3-30f51330ade28090b4a5c63e87e2e767?v=30651330ade28084a906000ccee62e47&source=copy_link
