@@ -1,3 +1,6 @@
 1. [devops] AWS 배포 완벽가이드 (Feat. LightSail, Docker, ECS) - 인프런 강의
 -- 24. Ubuntu Service Manager - Systemd & Systemctl
 -- https://www.notion.so/24-Ubuntu-Service-Manager-Systemd-Systemctl-31051330ade2809eaa85cc8ce5d2d759
+
+-- 25. Github repository 에서 VM으로 소스코드 Clone(Pull) 해주기
+-- https://www.notion.so/25-Github-repository-VM-Clone-Pull-31051330ade280caa6f9dd859fd5ac06
