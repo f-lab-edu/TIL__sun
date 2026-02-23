@@ -26,3 +26,6 @@
 
 -- 22. AWS Lightsail Instance로 첫 가상서버 생성해보기
 -- https://www.notion.so/22-AWS-Lightsail-Instance-31051330ade280889ee8ed827be32f07
+
+-- 23. VM에 Node.js, Redis 설치해주기
+-- https://www.notion.so/23-VM-Node-js-Redis-31051330ade280d0b345dd38b85f8eb3
