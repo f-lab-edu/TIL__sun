@@ -1,3 +1,6 @@
 1. [devops] AWS 배포 완벽가이드 (Feat. LightSail, Docker, ECS) - 인프런 강의
 -- 13. .env 파일로 환경변수 분리
 -- https://www.notion.so/13-env-30f51330ade28021b6a9ce915fa8f41a
+
+-- 14. 테스트용 별도 redis-server 설정해주기
+-- https://www.notion.so/14-redis-server-30f51330ade2804d96d1f4c947c748e7
