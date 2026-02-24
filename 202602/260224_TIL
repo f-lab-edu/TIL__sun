@@ -17,4 +17,6 @@
 -- 29. Public IP 가 왜 dynamic?
 -- https://www.notion.so/29-Public-IP-dynamic-31151330ade280b48264f2270dc3f7d1
 
+-- 30. Loadbalancer 생성해서 VM 연결해주기
+-- https://www.notion.so/30-Loadbalancer-VM-31151330ade28073bf79dd1ccb40aa69
 
