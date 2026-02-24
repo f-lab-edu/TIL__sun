@@ -20,3 +20,6 @@
 -- 30. Loadbalancer 생성해서 VM 연결해주기
 -- https://www.notion.so/30-Loadbalancer-VM-31151330ade28073bf79dd1ccb40aa69
 
+-- 31. Loadbalancer 우회해서 VM Public IP 로 접근 못하도록 차단하기
+-- https://www.notion.so/31-Loadbalancer-VM-Public-IP-31151330ade2807a9dcad65e418fa4bb
+
