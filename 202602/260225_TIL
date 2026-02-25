@@ -10,3 +10,6 @@
 
 -- 38. Github Action 이 필요한 SSH 관련 시크릿 정보 안전하게 제공해주기
 -- https://www.notion.so/38-Github-Action-SSH-31251330ade2800f9c99ed4813a046a2
+
+-- 39. 배포용 Workflow 만들기
+-- https://www.notion.so/39-Workflow-31251330ade28095bb79ced56ab26e94
