@@ -16,3 +16,6 @@
 
 -- 40. main branch 보호해주기
 -- https://www.notion.so/40-main-branch-31251330ade2802d86fad431335dd04f
+
+-- 41. 1인 개발자를 위한 통합 배포 파이프라인 구축하기(Pull Request 과정 제거)
+-- https://www.notion.so/41-1-Pull-Request-31251330ade280838754d55155ac3b7c
