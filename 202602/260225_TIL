@@ -4,3 +4,6 @@
 
 -- 36. SSH 터널링으로 Lightsail VM 접속하기
 -- https://www.notion.so/36-SSH-Lightsail-VM-31251330ade28091a8cbf6bcd2e39692
+
+-- 37. VM에 static public IP 부착해주기
+-- https://www.notion.so/37-VM-static-public-IP-31251330ade280e090d7cda4ee186d51
