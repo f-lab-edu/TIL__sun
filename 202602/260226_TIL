@@ -19,3 +19,6 @@
 
 -- 62. Docker Container 멈추기 SIGTERM/SIGINT & SIGKILL
 -- https://www.notion.so/62-Docker-Container-SIGTERM-SIGINT-SIGKILL-31351330ade2801fb0a7e35df278e20e
+
+-- 63. Port mapping으로 호스트 머신에서 컨테이너 접속하기
+-- https://www.notion.so/63-Port-mapping-31351330ade280c6a6acf96ab40c9213
