@@ -25,3 +25,9 @@
 
 -- 72. Graceful shutdown 적용하기
 -- https://www.notion.so/72-Graceful-shutdown-31451330ade280258821e461b0b66625
+
+-- 73. Docker volume을 활용해서 개발환경 구축하기
+-- https://www.notion.so/73-Docker-volume-31451330ade2806990a4e2c201900665?v=30d51330ade28008912d000c2c833642&source=copy_link
+
+-- 74. docker-compose 이용해서 간편하게 개발하기
+-- https://www.notion.so/74-docker-compose-31451330ade28019bfbdf1ed483d0e5b
