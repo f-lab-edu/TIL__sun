@@ -10,3 +10,6 @@
 
 -- 67. docker.internal.host 이용해서 부모 호스트 접속하기
 -- https://www.notion.so/67-docker-internal-host-31451330ade2809a9d5ee9d2051a5e9c
+
+-- 68. .dockerignore로 .env 분리하기
+-- https://www.notion.so/68-dockerignore-env-31451330ade280639cd7f39d74af519f
