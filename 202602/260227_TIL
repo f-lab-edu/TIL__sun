@@ -16,3 +16,6 @@
 
 -- 69. 도커 캐시를 활용할 수 있도록 Dockerfile 개선하기
 -- https://www.notion.so/69-Dockerfile-31451330ade2807b8b21f1d57403e034
+
+-- 70. build & production stage 구분해서 도커 이미지 크기 줄이기
+-- https://www.notion.so/70-build-production-stage-31451330ade280a0bb84ebc3ca8bd962
