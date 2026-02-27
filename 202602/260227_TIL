@@ -22,3 +22,6 @@
 
 -- 71. WORKDIR 이용해서 올바르게 파일 관리하기
 -- https://www.notion.so/71-WORKDIR-31451330ade28000b260c1f9e54eebb7
+
+-- 72. Graceful shutdown 적용하기
+-- https://www.notion.so/72-Graceful-shutdown-31451330ade280258821e461b0b66625
