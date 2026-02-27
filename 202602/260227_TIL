@@ -36,3 +36,6 @@
 
 -- 76. Virtual Private Network (VPC) & Subnets 알아보기
 -- https://www.notion.so/76-Virtual-Private-Network-VPC-Subnets-31451330ade280da8b8ece110d7a4a7b
+
+-- 77. Load balancer 더 자세히 알아보기 - listener rules & target groups
+-- https://www.notion.so/77-Load-balancer-listener-rules-target-groups-31451330ade28051b7e8f21e8cc2d9f4
