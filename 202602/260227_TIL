@@ -1,3 +1,6 @@
 1. DevOps : AWS 배포 완벽가이드 (Feat. LightSail, Docker, ECS) - 인프런 강의
 -- 64. 도커 이미지 만드는 방법 알아보기
 -- https://www.notion.so/64-31351330ade28090842ac46412d40f87
+
+-- 65. 커스텀 레디스 이미지 만들어보기
+-- https://www.notion.so/65-31351330ade280888402eb998d4676c4
