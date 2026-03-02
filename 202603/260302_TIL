@@ -16,3 +16,6 @@
 
 -- 89. Cloudwatch 이용해서 Task 단위 로그 확인하기 그리고 관련 주의사항!
 -- https://www.notion.so/89-Cloudwatch-Task-31751330ade280a4b292c6f8dec10cf6
+
+-- 90. AWS ECS - Service 사용해서 여러개의 Task 생성하고 Load Balancer 연결해주기
+-- https://www.notion.so/90-AWS-ECS-Service-Task-Load-Balancer-31751330ade28061a38fdb280f672a36
