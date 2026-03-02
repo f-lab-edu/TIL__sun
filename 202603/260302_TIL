@@ -1,3 +1,6 @@
 1. DevOps : AWS 배포 완벽가이드 (Feat. LightSail, Docker, ECS) - 인프런 강의
 -- 84. Container Orchestration 이란?
 -- https://www.notion.so/84-Container-Orchestration-31651330ade280339051e62e6e2745f4
+
+-- 85. Kubernetes VS Elastic Container Service (ECS) VS Elastic Beanstalk
+-- https://www.notion.so/85-Kubernetes-VS-Elastic-Container-Service-ECS-VS-Elastic-Beanstalk-31651330ade2806e8a15ef86704fcef0
