@@ -13,3 +13,6 @@
 
 -- 88. AWS ECS - hello world
 -- https://www.notion.so/88-AWS-ECS-hello-world-31751330ade28001b8bac6e3a433e2a3
+
+-- 89. Cloudwatch 이용해서 Task 단위 로그 확인하기 그리고 관련 주의사항!
+-- https://www.notion.so/89-Cloudwatch-Task-31751330ade280a4b292c6f8dec10cf6
