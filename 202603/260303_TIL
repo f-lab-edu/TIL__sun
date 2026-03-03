@@ -10,3 +10,6 @@
 
 -- 98. AWS CLI 설치 및 로그인
 -- https://www.notion.so/98-AWS-CLI-31851330ade280d29466ce4c2f4024aa
+
+-- 99. AWS CLI 이용해서 안전하게 ECR로 이미지 업로드하기 
+-- https://www.notion.so/99-AWS-CLI-ECR-31851330ade28038a0b7cc157ecc1bc7
