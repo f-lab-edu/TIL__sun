@@ -16,3 +16,6 @@
 
 -- 100. ECR private repository 이미지로 AWS ECS service 생성하기
 -- https://www.notion.so/100-ECR-private-repository-AWS-ECS-service-31851330ade2801591b8c283beddce06
+
+-- 101. 무중단 배포 - Green/Blue Strategy
+-- https://www.notion.so/101-Green-Blue-Strategy-31851330ade28068add9c63b590eda85
