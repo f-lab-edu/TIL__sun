@@ -4,3 +4,6 @@
 
 -- 96. AWS ECR에 private repository 생성하기 
 -- https://www.notion.so/96-AWS-ECR-private-repository-31851330ade2803cb8d1d55c3168f71c
+
+-- 97. ECR private repository에 이미지 push할 수 있는 IAM user 만들기 
+-- https://www.notion.so/97-ECR-private-repository-push-IAM-user-31851330ade280a682ebd8333fcd4b49
