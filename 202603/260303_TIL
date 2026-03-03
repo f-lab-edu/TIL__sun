@@ -1,3 +1,6 @@
 1. DevOps : AWS 배포 완벽가이드 (Feat. LightSail, Docker, ECS) - 인프런 강의
 -- 93. Redis service 생성하고 Service Discovery 적용하기
 -- https://www.notion.so/93-Redis-service-Service-Discovery-31851330ade28046b41df83c88a52156
+
+-- 96. AWS ECR에 private repository 생성하기 
+-- https://www.notion.so/96-AWS-ECR-private-repository-31851330ade2803cb8d1d55c3168f71c
