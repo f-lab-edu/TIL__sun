@@ -7,3 +7,6 @@
 
 -- 97. ECR private repository에 이미지 push할 수 있는 IAM user 만들기 
 -- https://www.notion.so/97-ECR-private-repository-push-IAM-user-31851330ade280a682ebd8333fcd4b49
+
+-- 98. AWS CLI 설치 및 로그인
+-- https://www.notion.so/98-AWS-CLI-31851330ade280d29466ce4c2f4024aa
