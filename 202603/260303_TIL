@@ -13,3 +13,6 @@
 
 -- 99. AWS CLI 이용해서 안전하게 ECR로 이미지 업로드하기 
 -- https://www.notion.so/99-AWS-CLI-ECR-31851330ade28038a0b7cc157ecc1bc7
+
+-- 100. ECR private repository 이미지로 AWS ECS service 생성하기
+-- https://www.notion.so/100-ECR-private-repository-AWS-ECS-service-31851330ade2801591b8c283beddce06
