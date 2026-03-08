@@ -1,0 +1,16 @@
+1.  OS : “컴퓨터 밑바닥의 비밀” (류사오펑 지음) - 스터디 진행중
+
+-- 저수준 계층? 메모리라는 사물함에서부터 시작해 보자
+-- https://www.notion.so/31c51330ade280319ccfd96d50585d1e?v=30651330ade28084a906000ccee62e47&source=copy_link
+
+-- [3.1] 메모리의 본질, 포인터와 참조
+-- https://www.notion.so/3-1-31c51330ade280a5bdf3f585babbb172?v=30651330ade28084a906000ccee62e47&source=copy_link
+
+-- [3.2] 프로세스는 메모리 안에서 어떤 모습을 하고 있을까?
+--https://www.notion.so/3-2-31c51330ade28013a7d8fa84feb3cf9d?v=30651330ade28084a906000ccee62e47&source=copy_link
+
+-- [3.3]  스택 영역 : 함수 호출은 어떻게 구현될까?
+--https://www.notion.so/3-3-31c51330ade28034ae75faa2392ecae9?v=30651330ade28084a906000ccee62e47&source=copy_link
+
+--[3.4] 힙 영역 : 메모리의 동적 할당은 어떻게 구현될까?
+--https://www.notion.so/3-4-31c51330ade280599f14d501c815c616?v=30651330ade28084a906000ccee62e47&source=copy_link
